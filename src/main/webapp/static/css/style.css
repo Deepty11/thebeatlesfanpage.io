@@ -1,0 +1,94 @@
+.update{
+    color: aliceblue;
+    position: relative;
+    transform: translateX(40%) translateY(50%);
+}
+h6{
+    transform: translateX(40%);
+    position: relative;
+
+
+}
+
+.div-body{
+    background: url('webapp/resources/images/beatles2.jpg');
+
+}
+
+.body-home{
+    background:url("");
+}
+.div-alert{
+    transform: translateX(40%) translateY(50%);
+    width: 60%;
+    height: 20%;
+}
+.login{
+    color: aliceblue;
+    position: relative;
+    transform: translateX(40%) translateY(50%);
+}
+.registration{
+    position: relative;
+    transform: translateX(40%) translateY(50%);
+    color: #ffffff;
+
+}
+.form2{
+    position: relative;
+    transform: translateX(20%) translateY(20%);
+    color: #ffffff;
+}
+#form1{
+    transform: translateX(240%);
+}
+a:hover{
+    background-color: aliceblue;
+
+}
+body{
+    background-color:#000000;
+}
+.jumb-div{
+    opacity: 0.8;
+    color: #0b2e13;
+}
+.jumb-div:hover{
+    opacity: 1.0;
+}
+.nav-div{
+
+}
+#more{
+    display: none;
+}
+.container{
+    background:#c1e2b3;
+
+}
+pre{
+    color:#0f0f0f;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.headline{
+    text-align:center;
+    color: #0f0f0f;
+    font-weight: bold;
+    font-style: italic;
+
+}
+iframe{
+    position: relative;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+h4{
+    font-weight: bolder;
+}
+.alert-success{
+   height: 30%;
+}
+
